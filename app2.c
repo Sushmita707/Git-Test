@@ -1,11 +1,18 @@
 #include<stdio.h>
+extern int count;
+void func()
+{
+printf("Hello from app2.\n");
+}
+
+#include<stdio.h>
 int main()
 {
 int n,t,i,temp;
 float rs;
 char name[12],movie;
 char id,date;
-printf("WELCOME TO OUR OFFICIAL PAGE \n\n\n");
+printf("WELCOME IN OUR OFFICIAL PAGE \n\n\n");
 printf("Printing the name of the movies:\n");
 printf("1.Housefull 4\n2.Dune \n3.Jumanji\n\n\n");
 printf("Choose the movie:\n");
@@ -13,15 +20,15 @@ scanf("%d",&id);
 temp=id;
 if(id==1)
 {
-printf("Entering into the Housefull 4\n");
+printf("Entering into the Housefull 4...........\n");
 }
 else if(id==2)
 {
-printf("Entering into the Dune \n");
+printf("Entering into the Dune ...........\n");
 }
 else if(id==3)
 {
-printf("Entering into the Jumanji \n");
+printf("Entering into the Jumanji...........\n");
 }
 else
 {
