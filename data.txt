@@ -1,0 +1,7 @@
+12 jumanji 10 250 
+mov1 jumanji 11/12/2022 250 
+10 spidermamn 2022/10/10 550 
+10 spiderman 2022/10/10 250 
+mov1 jumanji 12/12/2020 250 
+mov1 jumanji 10/10/2022 250 
+mov1 jumanji 12/12/2020 250 
