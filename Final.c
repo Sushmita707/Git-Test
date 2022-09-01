@@ -273,7 +273,7 @@
 
 		//system("clear");
 		
-		fp = fopen("oldTransaction.txt","r");
+		fp = fopen("oldTransection.txt","r");
 		if(fp == NULL)
 		{
 			printf("file does not found !");
