@@ -4,3 +4,4 @@ sushmita 1279642851 2 500 spiderman 250
 sushmita 1235 2 500 jumanji 250 
 sushmita 1234 2 500 jumanji 250 
 Pankaj 9898 2 600 Batman 300 
+sushmita 1233 4 1000 ABCD 250 

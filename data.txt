@@ -6,3 +6,4 @@ mov1 jumanji 12/12/2020 250
 mov1 jumanji 10/10/2022 250 
 mov1 jumanji 12/12/2020 250 
 mov1 Batman 2022/12/01 300 
+mov1 ABCD 12/12/2022 250 

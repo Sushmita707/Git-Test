@@ -201,7 +201,7 @@ void book_ticket()
 	fclose(fp);
 	
 	//display ends
-	printf("\n For Book ticket Choise Movie(Enter Movie Code First Latter Of Movie)\n");
+	printf("\n For Book ticket Choice Movie(Enter Movie Code First Letter Of Movie)\n");
 	printf("\n Enter movie code :");
 	scanf("%s",movie_code);
 	//system("clear");

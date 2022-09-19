@@ -105,7 +105,7 @@
 		else
 		{
 			fprintf(fp,"%s %s %s %d \n",b.code,b.name,b.date,b.cost);
-			printf("Record insert Sucessfull");
+			printf("Record insert Sucessfully");
 		}
 			printf("\n");
 		fclose(fp);
@@ -202,7 +202,7 @@
 		fclose(fp);
 		
 		//display ends
-		printf("\n For Book ticket Choise Movie(Enter Movie Code First Letter Of Movie)\n");
+		printf("\n For Book ticket Choice Movie(Enter Movie Code First Letter Of Movie)\n");
 		printf("\n Enter movie code :");
 		scanf("%s",movie_code);
 		//system("clear");
